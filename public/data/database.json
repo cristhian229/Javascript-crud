@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "id": "7f58",
+      "name": "admin",
+      "username": "admin1",
+      "email": "admin@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "f26a",
+      "name": "cristhian vasquez",
+      "username": "cristhian1",
+      "email": "telipikx@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "bc7b",
+      "name": "pochoclo",
+      "username": "pochoclo",
+      "email": "p@p.com",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": "8f48",
+      "name": "Hammer",
+      "price": "6000",
+      "amount": "2",
+      "image": "https://www.construcolor.com.co/wp-content/uploads/2021/05/Martillo-de-una-29mm1.jpg",
+      "description": "Perfect to nail nails"
+    },
+    {
+      "name": "Cement",
+      "price": "10000",
+      "amount": "3",
+      "image": "https://www.easycem.com.co/wp-content/uploads/2019/10/Diseno-sin-titulo-7.png",
+      "description": "Cement Bags",
+      "id": "61aa"
+    },
+    {
+      "id": "70fa",
+      "name": "Drill",
+      "price": "30000",
+      "amount": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAW6Ob6aUm_g4pHkGWvNyucIt0acsD7jGMA&s",
+      "description": "Drill to make holes"
+    },
+    {
+      "id": "53cb",
+      "name": "Hard hat",
+      "price": "50000",
+      "amount": "5",
+      "image": "https://www.collinsdictionary.com/images/full/hardhat_129478451.jpg",
+      "description": "Head protection"
+    },
+    {
+      "id": "6be8",
+      "name": "Boots",
+      "price": "120000",
+      "amount": "6",
+      "image": "https://s.alicdn.com/@sc04/kf/H19a8907655ea4a0689ba0cf034f7364fK.jpg_300x300.jpg",
+      "description": "Hard construction Boots"
+    }
+  ]
+}
